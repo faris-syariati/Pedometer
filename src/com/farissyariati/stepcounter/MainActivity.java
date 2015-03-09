@@ -21,6 +21,7 @@ public class MainActivity extends Activity implements SensorEventListener {
 
 	// Region View Component
 	private TextView mStepCounterTextView;
+	private TextView mStepDetectorTexview;
 	// End Region View Component
 
 	// Region static final string
